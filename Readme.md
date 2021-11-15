@@ -5,7 +5,7 @@
 
 **Case 1** is asscociated with the results of open-loop scenraio on healthy profiles. **Cases 2 and 3** are corresponding to the patients (without and with circadian rythm in their cortisol profiles. 
 
-**Harmonics_dictionaly.mat **and **parametrs.mat** are the model parameters (i.e., circadian forcing function and latent model parameters) that are estimated offline using an expectation-maximization algorithm.
+**Harmonics_dictionaly.mat** and **parametrs.mat** are the model parameters (i.e., circadian forcing function and latent model parameters) that are estimated offline using an expectation-maximization algorithm.
 
 **fuzzy_sys.fis** is associated with the fuzzy control system that is used for closing the loop.
 
