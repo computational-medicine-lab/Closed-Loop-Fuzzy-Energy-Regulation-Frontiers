@@ -1,3 +1,4 @@
+This code is written by Hamid Fekri Azgomi in affiliation with Computational Medicine Lab at University of Houston. Hamid was supervised by Rose T. Faghih during this project. Please contact Rose T. Faghih (email: rtfaghih@uh.edu) for any question regarding the code.
 
 # Instructions of use
 
